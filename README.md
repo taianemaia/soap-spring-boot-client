@@ -8,5 +8,4 @@ git clone https://github.com/taianemaia/soap-spring-boot-client.git
 cd soap-spring-boot-client
 mvnw clean install -DskipTests
 mvnw spring-boot:run
-Access endpoint url http://localhost:8080/ws
 ```
